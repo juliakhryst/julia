@@ -1,0 +1,112 @@
+body{
+	background: url(../img/back1.jpg);
+}
+
+ p{
+ 	text-indent: 30px;
+ }
+
+.main-photo {
+	float: left; 
+	width: 30%;
+	box-sizing: border-box;
+	padding-left: 20px; 
+	padding-bottom: 20px;
+}
+
+.menu{
+	text-align: center;
+}
+
+.menu li{
+	display: inline-block;
+	width: 100px;
+	margin-right: 10px;
+	border-right: 2px solid grey;
+	background-color: #FACC2E;
+	line-height: 35px;
+}
+
+.about {
+	float: right;
+	 width: 70%; 
+	 box-sizing: border-box;
+	  padding: 30px 130px 10px 110px;
+}
+
+.blockpr {
+	float:left;
+	width:50%;
+}
+
+.blockpr img{
+	float:left;
+}
+
+.blockpr p{
+	float:left; 
+	 width:45%;
+	 box-sizing: border-box;
+	 padding: 50px;
+}
+
+.clear{
+	clear: both;
+}
+
+.contact-h{
+	font-weight:bold;
+}
+
+.contact-v{
+	display:inline-block; 
+	clear:right;
+}
+
+.form{
+	border: 4px double black;
+	width: 35%;
+	margin:0 auto;
+	text-align: center;
+	padding:0;
+}
+
+img{
+	max-width: 100%;
+}
+
+h1{
+	text-align: center;
+	background-color: #F9F297;
+}
+h2{
+	text-align: center;
+	background-color:#CFFA7F;
+}
+
+h3{
+	text-align: center;
+	background: antiquewhite;
+}
+
+#submit{
+	width: 80px;
+	height: 30px;
+	margin-bottom: 20px;
+}
+
+textarea{
+	width: 90%;
+}
+
+input{
+	width: 90%;
+}
+
+address{
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+}
